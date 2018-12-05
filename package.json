@@ -4,5 +4,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "@types/shelljs": "0.8.0"
   }
 }

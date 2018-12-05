@@ -1,13 +1,8 @@
-JavaScript Backend Hello World Demo
-===================================
+JavaScript Shelljs Demo
+=======================
+
+Code is copied from <https://github.com/shelljs/shelljs>, can't running, just for viewing.
 
 ```
 npm install
-npm run demo
-```
-
-It will print:
-
-```
-Hello, Javascript
 ```
