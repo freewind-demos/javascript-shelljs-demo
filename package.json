@@ -1,11 +1,11 @@
 {
-    "scripts": {
-        "start": "node hello.js"
-    },
-    "dependencies": {
-        "shelljs": "0.8.3"
-    },
-    "devDependencies": {
-        "@types/shelljs": "0.8.0"
-    }
+  "scripts": {
+    "start": "node hello.js"
+  },
+  "dependencies": {
+    "shelljs": "0.8.3"
+  },
+  "devDependencies": {
+    "@types/shelljs": "0.8.0"
+  }
 }
